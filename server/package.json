@@ -1,7 +1,7 @@
 {
-    "name": "JATE",
+    "name": "script-revisor",
     "version": "1.0.0",
-    "description": "",
+    "description": "text-editor",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
